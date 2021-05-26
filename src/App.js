@@ -31,10 +31,10 @@ import { connect } from 'react-redux'
     <div className="App container text-center" >
 
    
-      <h1> REACT with REDUX TABLE  </h1>
+      <h1 className="m-3"> Kaaylabs  </h1>
 
       <div>
-        <table className="table table-striped">
+        <table className="table table-striped border border-secondary">
           <thead>
             <tr>
               <th scope="col">Project ID</th>
